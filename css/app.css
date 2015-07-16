@@ -1,5 +1,5 @@
 BODY, P, DIV, OL LI, UL LI, TD, TH,H1,H2,H3,H4,H5, H6{
-  font-family: "MgOpen Cosmetica", "Segoe UI","Corbel", "Helvetica Neue", sans-serif;
+/*  font-family: "MgOpen Cosmetica", "Segoe UI","Corbel", "Helvetica Neue", sans-serif; */
 }
 
 
@@ -13,7 +13,7 @@ BODY { margin : 0px;}
 }
 
 BODY,P,UL LI, OL LI, TD, TH, DIV {
-    font-family: "Alegreya";
+/*    font-family: "Alegreya";*/
 }
 
 A { color: #C01; }
@@ -52,10 +52,9 @@ div.footer {
 .paginator ul.pagination LI {
   padding: 2px 10px;
   min-width:3em;
-  font-size: 0.9em;
   font-weight:bold;
   text-align:center;
-  font-family: "MgOpen Cosmetica", "Segoe UI","Corbel", "Helvetica Neue", sans-serif;
+ /* font-family: "MgOpen Cosmetica", "Segoe UI","Corbel", "Helvetica Neue", sans-serif;*/
 
   float:left;
   background-color: #EEE;
@@ -67,23 +66,17 @@ div.footer {
 .topmenu {
   background-color: #C01;
   color: white;
-  font-size: 120%;
   height:auto;
-  float:left;
   width:100%;
   margin-bottom: 1em;
-  font-family: "MgOpen Cosmetica", "Segoe UI","Corbel", "Helvetica Neue", sans-serif;
 }
 
 .topmenu A { color:white;}
 .topmenu H3, .topmenu DIV  { 
   display: inline-block; 
-  font-size: 120%;
-  font-family: "MgOpen Cosmetica", "Segoe UI","Corbel", "Helvetica Neue", sans-serif;
   font-weight: 600;
 }
 .topmenu H3 { 
-  font-family: "MgOpen Cosmetica", "Segoe UI","Corbel", "Helvetica Neue", sans-serif;
   font-weight: 600;
 }
 .topmenu ul.pages-menu {
@@ -92,10 +85,7 @@ div.footer {
 .topmenu LI { 
   display: inline-block; 
   margin: 0.5em;
-  font-family: "MgOpen Cosmetica", "Segoe UI","Corbel", "Helvetica Neue", sans-serif;
-  font-weight: 600;
   font-style: italic;
-  font-size: 120%;
 }
 
 .main-sidebar ul {
@@ -105,7 +95,6 @@ div.footer {
 
 .main-sidebar ul LI {
   text-align: left;
-  font-size: 0.9em;
   border-bottom: 1px dotted #c01;
   padding: 0.2em 0;
 }
@@ -125,13 +114,11 @@ A:hover {
 }
 
 .post-item .block {
-  float:left;
   width: 100%;
   
 }
 
 .post-item .info {
-  float:left;
   width: 100%;
   padding-bottom: 0.5em;
   border-bottom: 1px dotted #c01;
@@ -139,10 +126,8 @@ A:hover {
 }
 
 .post-item .info .published {
-  float:left;
   width: 60%;
 }
 
 .post-item .info .leggi-tutto  {
-  float:right;
 }
