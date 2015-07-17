@@ -1,5 +1,5 @@
 BODY, P, DIV, OL LI, UL LI, TD, TH,H1,H2,H3,H4,H5, H6{
-/*  font-family: "MgOpen Cosmetica", "Segoe UI","Corbel", "Helvetica Neue", sans-serif; */
+font-family: "Segoe UI","Corbel", "Helvetica Neue", sans-serif; 
 }
 
 
@@ -13,7 +13,7 @@ BODY { margin : 0px;}
 }
 
 BODY,P,UL LI, OL LI, TD, TH, DIV {
-/*    font-family: "Alegreya";*/
+    font-family: "Alegreya";
 }
 
 A { color: #C01; }
@@ -22,7 +22,7 @@ A { color: #C01; }
 
 .footer,.header {
   min-height: 100px;
-  background-color: #C78;
+  background-color: #A01;
   color:white;
 }
 
@@ -104,12 +104,10 @@ div.footer {
 }
 
 A {
-  font-family: "MgOpen Cosmetica", "Segoe UI","Corbel", "Helvetica Neue", sans-serif;
   color: #C01;
 }
 
 A:hover {
-  font-family: "MgOpen Cosmetica", "Segoe UI","Corbel", "Helvetica Neue", sans-serif;
   text-decoration: underline;
 }
 
@@ -131,3 +129,27 @@ A:hover {
 
 .post-item .info .leggi-tutto  {
 }
+
+nav.nav { background-color: #C01; color:white; font-weight: bold;}
+nav.nav A { background-color: #C01; color:white; font-weight: bold; font-size: 1em;}
+nav.nav a.current { background-color:#c01;}
+
+div.title-hero {
+  margin: 0px;
+  background-color: #401;
+  color: white;
+  text-align: center;
+  font-size: 1.5em;
+  letter-spacing: -2px;
+  text-transform: :uppercase;
+  display:table;
+  width:100%;
+  height: 90%;
+}
+
+div.title-hero H1 {
+  margin: 1em 0px;
+  
+}
+
+.block H2 A { text-decoration: none; }
