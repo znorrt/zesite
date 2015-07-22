@@ -130,16 +130,16 @@ A:hover {
 .post-item .info .leggi-tutto  {
 }
 
-nav.nav { background-color: #C01; color:white; font-weight: bold;}
-nav.nav A { background-color: #C01; color:white; font-weight: bold; font-size: 1em;}
-nav.nav a.current { background-color:#c01;}
+div.nav { background-color: #C01; color:white; font-weight: bold;}
+div.nav A { background-color: #C01; color:white; font-weight: bold; font-size: 1em;}
+div.nav a.current { background-color:#c01;}
 
 div.title-hero {
   margin: 0px;
   background-color: #401;
   color: white;
   text-align: center;
-  font-size: 1.5em;
+  font-size: 1.2em;
   letter-spacing: -2px;
   text-transform: :uppercase;
   display:table;
@@ -153,3 +153,33 @@ div.title-hero H1 {
 }
 
 .block H2 A { text-decoration: none; }
+
+.ul_categories {
+	list-style-type: none;
+	margin-left: 0px;
+	padding-left: 0px;
+	
+}
+
+.ul_categories LI {
+	float: left;
+	margin: 0.25em 0.5em 0 0;
+	padding: 2px 5px;
+	background-color: white;
+	border: 1px solid #701;
+}
+
+.ul_tags {
+	list-style-type: none;
+	margin-left: 0px;
+	padding-left: 0px;
+	
+}
+
+.ul_tags LI {
+	float: left;
+	margin: 0.25em 0.5em 0 0;
+	padding: 2px 5px;
+	background-color: white;
+	border: 1px solid #701;
+}
