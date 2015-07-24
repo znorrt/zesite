@@ -183,3 +183,66 @@ div.title-hero H1 {
 	background-color: white;
 	border: 1px solid #701;
 }
+
+.title-post h2 {
+	font-size: 2em;
+	text-align: right;
+	text-transform: none;
+	margin-top: 0.5em;
+  font-style: italic;
+  letter-spacing: -1px;
+  font-weight: 100;
+  font-variant-ligatures: initial;
+}
+
+.title-post h2 {
+  font-weight: 400;
+}
+
+.title-post h2 A:hover { 
+	text-decoration: underline;
+}
+
+.title-post h2 A { 
+	text-decoration: none;
+}
+
+p.summary:first-child:first-letter { 
+  float: left; 
+  color: #903; 
+  font-size: 4em; 
+  font-weight:600;
+  display: inline-block;
+  text-transform: uppercase;
+  line-height: 0.9em;
+  padding-right:0.1em;
+
+}
+
+p.summary {
+	text-align:justify;
+  
+}
+
+.info .leggi-tutto {
+    text-align:right;
+}
+
+.essays UL {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  border-top: 1px dotted #701;
+}
+
+.essays UL LI:hover { background-color: #EEE;}
+.essays UL LI A { text-decoration: none;}
+.essays UL LI A:hover { text-decoration: underline;}
+
+.essays UL LI {
+  font-family: "Segoe UI","Corbel", "Helvetica Neue", sans-serif; 
+  padding: 0.2em 0;  
+  border-bottom: 1px dotted #701;
+}
+
+.subtitle-sized {font-size:0.8em;font-weight:100;} 
