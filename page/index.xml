@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Znort. ZNORT? ZNORRT!</title>
-    <link>http://localhost:1234/page/</link>
+    <link>http://www.znorrt.ml/page/</link>
     <description>Recent content in Pages on Znort. ZNORT? ZNORRT!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1234/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.znorrt.ml/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Technical Info</title>
-      <link>http://localhost:1234/page/tech_info/</link>
+      <link>http://www.znorrt.ml/page/tech_info/</link>
       <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1234/page/tech_info/</guid>
+      <guid>http://www.znorrt.ml/page/tech_info/</guid>
       <description>
 
 &lt;h2 id=&#34;some-technical-informations:04fb52acb9d727b7e51268e1eed94a20&#34;&gt;Some technical informations&lt;/h2&gt;
@@ -30,10 +30,10 @@ Inkscape (&lt;a href=&#34;http://inkscape.org&#34;&gt;http://inkscape.org&lt;/a&
     
     <item>
       <title>Ebaut zis sait</title>
-      <link>http://localhost:1234/page/about/</link>
+      <link>http://www.znorrt.ml/page/about/</link>
       <pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1234/page/about/</guid>
+      <guid>http://www.znorrt.ml/page/about/</guid>
       <description>
 
 &lt;h2 id=&#34;about-this-site:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About this site&lt;/h2&gt;
@@ -48,10 +48,10 @@ I don&#39;t need her... maybe
     
     <item>
       <title>Dicono di me</title>
-      <link>http://localhost:1234/page/andiamo_allimplementazione_e_allevoluzione_le/</link>
+      <link>http://www.znorrt.ml/page/andiamo_allimplementazione_e_allevoluzione_le/</link>
       <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1234/page/andiamo_allimplementazione_e_allevoluzione_le/</guid>
+      <guid>http://www.znorrt.ml/page/andiamo_allimplementazione_e_allevoluzione_le/</guid>
       <description>
 
 &lt;h2 id=&#34;le-due-cose-si-sforzano-con:601ea2cf5574048dca710d35f26fd499&#34;&gt;le due cose si sforzano con&lt;/h2&gt;
