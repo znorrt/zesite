@@ -13,7 +13,7 @@ BODY { margin : 0px;}
 }
 
 BODY,P,UL LI, OL LI, TD, TH, DIV {
-    font-family: "Alegreya";
+    font-family: "Alegreya", Georgia, Garamond, Times, Serif;
 }
 
 A { color: #C01; }
@@ -185,19 +185,32 @@ div.title-hero H1 {
 }
 
 .title-post h2 {
-	font-size: 2em;
+	font-size: 2.2em;
 	text-align: right;
 	text-transform: none;
-	margin-top: 0.5em;
-  font-style: italic;
-  letter-spacing: -1px;
-  font-weight: 100;
+	margin-top: 0em;
+  letter-spacing: -2px;
   font-variant-ligatures: initial;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-stretch: condensed;
+  color: #701;
 }
 
-.title-post h2 {
-  font-weight: 400;
+.post-hero h1 {
+	font-size: 3.5em;
+  padding: 0px 3%;
+	text-transform: none;
+  margin: 0px;
+  letter-spacing: -3px;
+  font-variant-ligatures: initial;
+  font-weight: 100;
+  text-transform: uppercase;
+  font-stretch: condensed;
+  color: #701;
 }
+
+
 
 .title-post h2 A:hover { 
 	text-decoration: underline;
@@ -246,3 +259,26 @@ p.summary {
 }
 
 .subtitle-sized {font-size:0.8em;font-weight:100;} 
+
+.inner-post P { text-align: justify;}
+
+.inner-post H2 { 
+	font-weight: 500;
+	font-size: 1.5em;
+	color: #333;
+ font-family: "Alegreya", Georgia, Garamond, Times, Serif;
+}
+
+.inner-post h3 { 
+	font-weight: 400;
+	font-size: 1.2em;
+  margin: 0.3em 0;
+  font-style:italic;
+	color: #333;
+ font-family: "Alegreya", Georgia, Garamond, Times, Serif;
+}
+
+
+.inner-post H2:first-child {
+	margin-top: 0px;
+}

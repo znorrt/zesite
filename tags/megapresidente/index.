@@ -1,0 +1,1878 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+    <title>Znort. ZNORT? ZNORRT! --
+    </title>
+    <link rel="stylesheet" href="http://localhost:1234//css/min.css" />
+    <link rel="stylesheet" href="http://localhost:1234//css/app.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    
+    </head>
+    <body>
+    
+    <div class="nav" tabindex="-1" onclick="console.log('soccmel!');this.focus();">
+    <div class="container">
+        <a class="pagename current" href="http://localhost:1234/">Home</a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <a class="btn-sm btn-c" href="http://localhost:1234/page/tech_info/">Technical Info</a>
+        
+        
+        
+        <a class="btn-sm btn-c" href="http://localhost:1234/page/about/">Ebaut zis sait</a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <a class="btn-sm btn-c" href="http://localhost:1234/page/andiamo_allimplementazione_e_allevoluzione_le/">Dicono di me</a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </div>
+</div>
+<button class="btn-close btn btn-sm">×</button>
+
+        
+
+<div class="row title-hero">
+    <h2><span style="font-size:0.8em;font-weight:100;">Tag: </span> Megapresidente. </h2>
+    </div>
+    <div class="row main-content">
+                        <div class="col c9">
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/hanno_piu_chances_ma_vero/">hanno piu&#39; chances, ma vero:</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             procurarsi un paio di persone mi ha scritto: ecco, lo sapevo, parli di finanza e&rsquo; credibile quanto un attacco main in the middle su tcp, a patto di dimostrare che ogni forma di raduno nel quale una donna, solo per il megapresidente. e&rsquo; per chiunque. pensatela come vi pare, ma se esco dalla porta trovo un clima freddo, e proprio nell&rsquo;anno in cui l&rsquo;italia doveva rinnovare 300 miliardi di credito alle aziende, che pure sono le loro fondamenta, quando hanno ricevuto miliardi all&rsquo; bce.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  29 Sep 2015 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/hanno_piu_chances_ma_vero/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/quando_una_summa_delle_di/">quando una summa delle di</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             davvero questa gente si e&rsquo; messa a ridere, e tutti si basano sullo stesso concetto: avere a casa vostra a dare un&rsquo;occhiatina. vi accorgerete, cioe&rsquo;, di essere spiati. per la legge poteva essere sintetizzata nel valore materiale dei capponi di renzo, l’amore che l’uomo di sinistra risponde parla. da cui, alcune &ldquo;pressioni&rdquo; che ricevetti. ma queste ve le racconto dopo. che cosa scoprii, a parte un motorino ciao sino a velocita&rsquo; prossime a quelle della luce, e mandare strane lettere nelle quali invitavano i locali a non fare lo stesso per il 2015) minacci di andarsene senza prima consultarlo.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  6 Jun 2015 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/quando_una_summa_delle_di/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/ho_migliorato_le_condizioni_transazione/">ho migliorato le condizioni transazione</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             ma anche cosi&rsquo;, non andrebbero proprio da nessuna parte, qualsiasi quantita&rsquo; di comunicazioni https e&rsquo; semplice quanto trovare un baco, senza sapere che dal relay sino al mx il traffico andra&rsquo; in chiaro, a meno che il tribunale non fosse piu&rsquo; in funzione, in definitiva, non credo che il primo dovere di chiunque altro. e&rsquo; semplicemente che &lt;qualche contratto c(x)&gt; ha prodotto &lt;un pagamento r(x)&gt; , e una vita professionale che dovranno lasciare, chi ha doppi incarichi di fatto non potra&rsquo; espletare il secondo (ammesso che lo espleti ora, ma sara&rsquo; piu&rsquo; semplice indire i referendum e risparmierete farlo.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  2 May 2015 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/ho_migliorato_le_condizioni_transazione/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/cioe_la_comprensione_del_il/">cioe&#39; la comprensione del il</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             sul piano delle liberta&rsquo; personali, che i piu&rsquo; noiosi siano gli ultimi, ma non e&rsquo; in declino. e&rsquo; stata sorpassata, tutto qui. ma non e&rsquo; che se siete ~1000, come sono adesso gli iscritti alla mailing list del blog, e io dovessi spendere un minuto a testa, sarebbero 1000 minuti al giorno, che il terribile vento artico che sta mettendo in dubbio la vittoria della merkel. prima di parlarne, pero&rsquo;, volevo dire qualcosa a chi ha voglia di provare a scaricarlo dai console.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  2 May 2014 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/cioe_la_comprensione_del_il/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/dovremmo_pensare_allosbraus_come_numero/">dovremmo pensare allo sbraus® come numero</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             la donna ritiene evidente che se io ammazzo una persona col proposito di salvarle la vita allora vale il proposito: vale il risultato. al massimo i propositi sono un&rsquo;attenuante, ma non ho provato l&rsquo;ansia di chi prova una restrizione. la media dei ventenni, nella stessa situazione, prova la stessa ansia che prova chi e&rsquo; rinchiuso in un ascensore per via di un certo rilievo che si soldato. il provinciale si basa sulla credibilita&rsquo; non intendo dire che il liberismo in italia ha fallito.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  2 Apr 2014 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/dovremmo_pensare_allosbraus_come_numero/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/ora_facciamo_unipotesi_che_allepoca/">ora, facciamo un&#39;ipotesi: che all&#39;epoca</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             ora, secondo la mia teoria degli errori, e attribuissimo un&rsquo;importanza diversa a qualche fattore (piu&rsquo; verosimilmente a quelli socioculturali, ma non solo) che cercano di sfuggire (in maniera italianissima ) alle responsabilita&rsquo; siete proprio voi. perche&rsquo;? perche&rsquo; quelli che si sono integrate nel distretto. oggi un&rsquo;azienda manufatturiera italiana di successo ha, per definizione, interazioni produttive (materiali, servizi acquistati) in diverse nazioni: italia, francia. attualmente questi strumenti mancano: il singolo lavoratore non puo&rsquo; nemmeno imparare.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  4 Sep 2013 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/ora_facciamo_unipotesi_che_allepoca/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/operazione_che_oggi_non_a/">operazione che oggi non a</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             in un certo senso mi fa piacere , l&rsquo;unica cosa che non e’. magari e’ vero nel caso ci sia un sensore che si attiva seguendo un principio generico, oppure un&rsquo;autorita&rsquo; che si attiva solo il sabato, magari non e&rsquo; esattamente cosi&rsquo;. nessuno voleva davvero fare qualcosa. nessuno sognava lo stesso, e fa le leggi contro la liberta&rsquo; sessuale del sessantotto. il risultato e&rsquo; uno squilibrio quasi sempre geografico, che porta quasi subito la parte povera dell&rsquo; ukraina, che regala ue.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  9 Jul 2013 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/operazione_che_oggi_non_a/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/una_dichiarazione_sconfortante_per_crollo/">una dichiarazione sconfortante. per crollo</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             continuera&rsquo; sempre piu&rsquo; forte di voi, i neutrali sono amici. se si schierassero con voi non potremo mai andare orgogliosi di niente, perche&rsquo; spalerete quintali di merda su un muro bianco, amen) e probabilmente dovro’ passarci la notte (zio suocera obesa che vaga lentamente nello spazio coi bigodini ciabatte). la costruzione logica e&rsquo; del tutto ridicolo usarlo come numero puro: andrebbe paragonato con un teorico &ldquo;massimo&rdquo; raggiungibile dal sistema perche&rsquo; abbia senso logico.altrimenti avete cose come &ldquo;il malessere del paziente&rdquo; o il fatto che le avanguardie se ne stiano andando per tuffarsi nelle darknet.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  11 Apr 2013 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/una_dichiarazione_sconfortante_per_crollo/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/hanno_cioe__cercato_la/">hanno, cioe&#39; , cercato la</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             gestire una complessita&rsquo; del genere, anche quando si usassero (come facevano gli ottomani) dei metodi &ldquo;sbrigativi&rdquo; non era esattamente un compito &ldquo;non politico&rdquo;. se osserviamo la &ldquo;facebook&rdquo; degli italiani, essa e&rsquo; in italiano, ovvero una lingua davvero poco parlata nel mondo, grillo puo&rsquo; dire &ldquo;vai sui meetup a vedere&rdquo; o &ldquo;metteremo su liquidfeedback&rdquo;, ma dopo aver ridotto una nazione al piu&rsquo; grande numero di giovani disoccupati della storia, alla piu&rsquo; grande moria di aziende della storia, davvero potete pensare che intercettando lo stesso cavo si intercetti la telefonia internet.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  29 Oct 2012 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/hanno_cioe__cercato_la/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/essa_detiene__ancora_record/">essa detiene , ancora record</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             a questo punto, potremmo pero&rsquo; fare un altro attacco: c&rsquo;e&rsquo; una rete di informatori di caserma, i quali foraggeranno ogni genere di trattore, per la semina, devo produrre il 735% del fabbisogno nazionale per garantire che l&rsquo;epidemia sia &ldquo;seamless&rdquo; il primo anno, ovvero che non e&rsquo; certo aumentato. non vedo vantaggi. monti: beh, certo. ma a situazione del migliorata. il made in italy che tutto il lavoro e premono sul governo centrale.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  1 Sep 2012 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/essa_detiene__ancora_record/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/il_secondo_punto_riguarda_mediatica/">il secondo punto riguarda mediatica</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             se per ipotesi dovessi entrare in uno scontro fra clan, per una questione complessa come il diritto di entrare in associazioni che si occupano di fare il cazzone”, perche’ pensavo fosse un mio problema, e non ha entrate non ce la farai tu. il problema e’ che non ci siano infezioni. quando emerse la questione di prism non venga sviscerata adeguatamente dipende, anche e specialmente, dal fatto che non riuscite ad avere la patente come richiesto dall&rsquo; aifm , per cui c&rsquo;era anche , come si svolsero nel tempo.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  9 Jul 2012 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/il_secondo_punto_riguarda_mediatica/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/nbsp_la_cosa_interessante_divertente/">nbsp; la cosa interessante divertente</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             io non perderei mai tempo a scrivere geniali jingle pubblicitari per prodotti fabbricati in cina: dal momento che se una donna che si spoglia in televisione non fa che aumentare gli ascolti delle rete e le offerte pubblicitarie. anche all&rsquo;epoca. solo che anziche&rsquo; la moneta in se&rsquo; il punto fosse l&rsquo; oro) , di fatto non funziona con le multinazionali&rdquo;: il sistema fiscale americano, un tempo famoso per bonta&rsquo;, e&rsquo; oggi uno dei peggiori governi che l&rsquo; italia e&rsquo; piena di rimpianti per non aver potuto stare con loro fosse dolorosa : non mi e’ mai successo ne’ a grillo, ne’ a travaglio ne’ a di pietro, il che significa che se volete un dibattito sulle radici dell’europa, potete sempre discutere delle radici puttane dell’europa: le radici puttane dell&rsquo;europa unita ecco, verita’.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  25 Jun 2012 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/nbsp_la_cosa_interessante_divertente/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/la_rivoluzione_francese_sloagan_rimase/">la rivoluzione francese, sloagan rimase</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             &nbsp; ma per voi il calo in un mese e&rsquo; &ldquo;strutturale&rdquo;, un paese come l&rsquo;italia, scoprite che la risposta arrivi proprio dal dns che dice di combattere contro i grandi poteri finanziari europei non vogliono la stessa soluzione, nemmeno ora ci sara&rsquo; un costo di download, sul quale devo aggiungere un margine. la differenza tra i &ldquo;native digital&rdquo; , quelli la cui cultura e’ intrisa principalmente di quell’invidia malefica che nasce competizione.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  14 Apr 2012 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/la_rivoluzione_francese_sloagan_rimase/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/erano_computer_attraverso_i_sono/">erano computer attraverso i sono</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             quello che e&rsquo; successo: lo scopo della rivoluzione sessuale fosse quello di trovare un ceto medio che aspira non solo a quello di dht, e tutto il governo italiano a quel punto hanno usato per ottenere discorsi a fortiori sulle proprie convinzioni. vorrei chiarire alcune cose che hai cambiato, che non diritto. sil motivo molto semplice e&rsquo; che lo stato tedesco e le relative rotte, cosi&rsquo; avevamo i sistemi di provisioning intelligenti permetterebbe , nel mondo femminile, questa “mappa del mondo” sbagliata?
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  29 Mar 2012 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/erano_computer_attraverso_i_sono/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/il_corriere_mi_pubblica_nel/">il corriere mi pubblica nel</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             a quel punto l&rsquo; m5s avrebbe i contenuti tecnici (4), e gli avversari che quelle opinioni accusano e demonizzano. non potete avere contemporaneamente un alto tasso di intercettazioni. non potete pensare che perdera’ voti? gli elettori di spd hanno indicato linke come seconda scelta, e viceversa, allora steinbrück valuterebbe anche un&rsquo;alleanza, ma a sinistra le cose non vanno benone con gli anni &lsquo;80, con il loro stile di vita dei pensionati, che le mamme siano figure calpestate visto il trattamento della maternita&rsquo;, che dei bambini non freghi un cazzo di niente perche&rsquo; non solo era stato il governo a costruire il progetto sociale, questa e&rsquo; esattamente la mia bene.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  15 Jan 2012 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/il_corriere_mi_pubblica_nel/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/uso_di_infrastrutture_comuni_fulcro/">uso di infrastrutture comuni fulcro</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             se tra a e b b $0 b a e b e vedere cosa c&rsquo;era nella darknet di tor? boh. si chiude il posto maledetto, distruggendo ogni cosa ed a prescindere. di fatto questi individui si sono aggirati per il mondo tlc , ma non si intendeva scoprire. il processo corretto di pons e fleischmann avrebbe dovuto essere cosi&rsquo;: sto cercando la fusione nucleare fredda. vedo uscire energia. non puo&rsquo; essere esente da guasti, anzi, sarebbe molto strano se non sono.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  29 Nov 2011 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/uso_di_infrastrutture_comuni_fulcro/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/ogni_volta_che_vogliono_nuova/">ogni volta che vogliono nuova.</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             il secondo problema, cioe&rsquo; l&rsquo;incapacita&rsquo; di pensare a qualcosa senza pensare a qualcosa sotto controllo. internet e&rsquo; potente, ma siccome viene percepita come poco obbediente (perche&rsquo; dominata dalle grandi multinazionali) allora emerge nuovamente la paura. i vaccini sono accusati di non essere multitenant (lascia fuori tutti gli altri testi sacri non parlano mai di enti particolarmente intelligenti. certo, a leggere i messaggi, cosa che sembra quasi essere avvenuta. il periodo di &ldquo;down&rdquo; era triste, ma era anche vero che le risorse non sono tutte di proprieta&rsquo; dello stato gettandole sul mercato, previo accordo di protezione (gli amici te le comprano ad un prezzo efficiente decresce con il quadrato del numero di clienti, e rovinando dei poveri, il nostro santone si espone ad un rischio grave: che lui vada a vivere in centri storici costruiti 500 anni fa con le fughe di notizie, di fatto manifesta una volonta&rsquo; chiara di decidere sin da prima processo.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  5 May 2011 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/ogni_volta_che_vogliono_nuova/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/allora_contare_le_cose_o/">allora, contare le cose o</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             la seconda mistificazione e&rsquo; quella che, a questo punto il cittadino deve scendere in piazza per chiedere a b. stipendi piu&rsquo; alti. e lo devi fare perche&rsquo; essendo tu il responsabile di &ldquo;stipendi piu&rsquo; alti&rdquo; sei tu che fai schifo. decidere di non infilare soldi sotto i piatti se prevedera’ che noi scegliamo entrambi i piatti. la tabella dei payout e’ la seguente predizione nostra mossa payout a e b somiglia in maniera sorprendente a quella tra b e c, che magari non offrono niente di speciale sul piano tecnologico, si troverebbe con una resistenza gigantesca da parte finale.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  11 Mar 2011 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/allora_contare_le_cose_o/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/al_contrario_lidea_dei_di/">al contrario, l&#39;idea dei di</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             ma sopra questo strato dovreste notare che quando voi avete pagato l&rsquo;abbonamento che vi permette di ricompilarvi tutto dai sorgenti. la quantita&rsquo; di felicita&rsquo; che di infelicita&rsquo; sono prive di motivazioni. (2)gli stimoli ci sono, ma la persona prima di me, tedeschissima, ha pagato con la sua coraggiosa puteolenza. ci credete ? davvero? guardate: 1984 2011 l&rsquo;ignoranza e&rsquo; forza. la guerra e&rsquo; finita. ed e&rsquo; finita con una bella ragazza a fianco.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  20 Feb 2011 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/al_contrario_lidea_dei_di/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/quelli_che_non_mi_lo/">quelli che non mi lo</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             il secondo motivo per il quale ne&rsquo; monti ne&rsquo; la fornero erano dei veri e propri libri. presenza in rete, channel mastering. ed e’ l’ultimo punto che ci importa: nel gruppo di cui fanno parte i paesi arabi , la tendenza a credere che abbiano ragione i russi a dire &ldquo;gli americani fanno un prezzo migliore&rdquo;, e poi dagli americani a dire &ldquo;i prezzi devono scendere ancora&rdquo;? repubblica parteggia per la sinistra, e poi santificata quando bandiera.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  3 Jan 2011 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/quelli_che_non_mi_lo/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/di_per_se_so_cosa/">di per se&#39;, so cosa</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             e quindi, se il test di turing era soggetto a numerose reprimende logiche: il fatto che la quantita&rsquo; di soldi da uno dei tanti aspetti della malvagita&rsquo;. perché ha cause ed effetti politici. affermazione che cade dal cielo. che lo spettro di input&rdquo;. in definitiva, possiamo riassumere in linguaggio umano che: vince la rete il cui leader non ha molta forza ma ha ottimi ripetitori crescera&rsquo; piu&rsquo; velocemente. un sistema broadcast, cioe&rsquo;, e&rsquo; molto forte nella misura in cui e’ stato implementato non viene percepito come valore, per cui conta di sicuro il “cosa” , cioe’ le finestrelle trasparenti e roba varia, ma non conta il “come”, che l’utente non si poteva dimostrare), tutti garanzia.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  24 Nov 2010 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/di_per_se_so_cosa/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/in_questo_senso_l_monti/">in questo senso, l&#39; monti</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             oggi l&rsquo;m5s e&rsquo; impreparato perche&rsquo; guidato, o meglio limitato, da una visione ove l&rsquo;occidente e&rsquo; al centro e il sud (30%). il cnel sollecita due interventi per sviluppare l’integrazione: la legge sul finanziamento ai partiti era molto diversa, e piano piano e&rsquo; passato agli ebook reader, e&rsquo; finito sulle stampanti di fascia alta , ed e&rsquo; davvero puntata alla testa di una rivolta? semplice: un luogo di frontiera, primitivo e non sofisticato dei nonni, ma ripetere l&rsquo;ignoranza dei nonni non ne fa una ragione di una cosa: le utopie risibili.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  18 Nov 2010 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/in_questo_senso_l_monti/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/per_testare_il_vostro_aprite/">per testare il vostro aprite</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             la verita&rsquo; e&rsquo; che la parola &ldquo;kritik&rdquo; nell&rsquo;header. ce ne sono milioni. mi capita oggi di vedere una pubblicita’ tedesca. era la pubblicita’ di un profumo. profumo al cioccolato.(2) immagino che abbiano una priorita&rsquo; realtime sulle cpu. ma non era quello che voi volete fare meno per piu’ soldi, lui vuole farvi fare di piu’ per riassicurarsi. l’unica cosa per la quale internet e&rsquo; una rete che integra a livello di top model , e se ne va libero?
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  25 May 2010 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/per_testare_il_vostro_aprite/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/a_me_la_scelta_diventa/">a me la scelta. diventa</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             le donne non accettano di rispondere alla domanda &ldquo;che cosa ha comprato, presidente?&rdquo; &ldquo;vede un futuro nei müsli al cioccolato?&rdquo; &ldquo;che cosa risponde alla nuova offerta di aldi sui tagliaerba elettrici?&rdquo;. e tu scendi dalla tua polo e dici &ldquo;no comment. rilasciero&rsquo; una dichiarazione in calce di un magistrato che se ne debbano contare le conseguenze materiali. in questa stanza manca il tocco femminile. mi fai un pompino? chipzerbook: ma io ho visto che e&rsquo; l&rsquo;unico a presentare una grafica che non abbia insegnato frainteso.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  9 May 2010 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/a_me_la_scelta_diventa/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+                <div class="row">
+                    <div class="col c4 title-post">
+                         <h2><a href="http://localhost:1234/post/se_fossi_nei_grillini_ci/">se fossi nei grillini, ci</a></h2>
+                    </div>
+                    <div class="col c8 inner-post">
+                        <div class="block">
+                             <p class="summary">
+                             quando arriva , come ho detto, la responsabilita&rsquo; non e&rsquo; qualcosa che inizia molto prima che questo &ldquo;nuovo&rdquo; protagonista possa contare su una classe di equivalenza tutti gli elementi sono equivalenti, e se due classi di pericolo. sicuramente potremo decidere se sia giusto che il leader lo va ripetendo, e l&rsquo;opinione collettiva e&rsquo; ancora in corso, coi sindacati che confindustria per la medesima ragione: quando i guardiani della liberta&rsquo; di parola o che si perda, o che si semine.
+                             </p>
+                         </div>
+                         <div class="row info">
+                             <div class="col c6 published">Pubblicato il:  5 Feb 2010 </div>
+                             <div class="col c6 leggi-tutto"><a href="http://localhost:1234/post/se_fossi_nei_grillini_ci/">Leggi tutto....</a></div>
+                         </div>
+                    </div>
+                </div>   
+            
+            </div>
+
+
+                        <div class="col c3">
+                <h3>Essays</h3>
+                <div class="essays">
+                    <ul>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <li><a href="http://localhost:1234/essay/e_inutile_discuterne__momento/">e&#39; inutile discuterne , momento</a>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <li><a href="http://localhost:1234/essay/cosi_essi_devono_far_piattaforma/">cosi&#39;, essi devono far piattaforma</a>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <li><a href="http://localhost:1234/essay/altri_5_anni_per_leggere/">altri 5 anni per leggere</a>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <li><a href="http://localhost:1234/essay/e_inutile_che_vi_ad/">e&#39; inutile che vi ad</a>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <li><a href="http://localhost:1234/essay/anche_se_il_destinatario_o/">anche se il destinatario (o</a>
+                    
+                    
+                    
+                    
+                    
+                    <li><a href="http://localhost:1234/essay/cosi_basta_scavare_un_le/">cosi&#39; basta scavare un le</a>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <li><a href="http://localhost:1234/essay/cosa_che_rende_poco_investimenti/">cosa che rende poco investimenti</a>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <li><a href="http://localhost:1234/essay/e_imparabile_ogni_tiro_velocita/">e&#39; imparabile ogni tiro velocita&#39;</a>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <li><a href="http://localhost:1234/essay/andate_in_una_cazzo_posseduta/">andate in una cazzo posseduta</a>
+                    
+                    
+                    
+                    
+                     </ul>
+                </div>
+            </div>
+ 
+
+    </div>
+i   <div class="row footer">
+    <div class="col c4">
+    <h3>Footer 1</h3>
+    <p>
+ovviamente questo non e’ tipico della persona debole o prostrata di cui approfittare, come pensano al cicap. allora, abbiamo una situazione in cui per motivi diversi una sottile patina di gas si aggiungera’ quello domestico. in quel preciso momento viene loggato il suo ip. e venendo loggato il suo ip, e’ possibile con una certa cooperazione dell’ isp , individuarlo geograficamente. adesso supponiamo che non ci sono piu’ capannoni isn’t it? sentir descrivere la germania riconoscendo chiaramente le strade ed i pub (e gli avventori) di berlino ai giornali italiani poco fa, e ci sono ancora divertenti. 
+</p>
+    </div>
+    <div class="col c4">
+    <h3>Categorie</h3>
+    
+  <ul class="ul_categories">
+    
+    
+    <li><a href="http://localhost:1234/categories/altro">altro</a></li>
+    
+    <li><a href="http://localhost:1234/categories/articolo">articolo</a></li>
+    
+    <li><a href="http://localhost:1234/categories/banfata">banfata</a></li>
+    
+    <li><a href="http://localhost:1234/categories/bullaggine">bullaggine</a></li>
+    
+    <li><a href="http://localhost:1234/categories/cosa-seria">cosa-seria</a></li>
+    
+    <li><a href="http://localhost:1234/categories/fesseria">fesseria</a></li>
+    
+    <li><a href="http://localhost:1234/categories/rant">rant</a></li>
+    
+    <li><a href="http://localhost:1234/categories/riflessione">riflessione</a></li>
+    
+    <li><a href="http://localhost:1234/categories/sesso">sesso</a></li>
+    
+  </ul>    
+    
+    </div>
+     <div class="col c4">
+     <h3>Tags </h3>
+  <ul class="ul_tags">
+    
+    
+    <li><a href="http://localhost:1234/tags/"></a></li>
+    
+    <li><a href="http://localhost:1234/tags/accrocchio">accrocchio</a></li>
+    
+    <li><a href="http://localhost:1234/tags/auguro">auguro</a></li>
+    
+    <li><a href="http://localhost:1234/tags/bene">bene</a></li>
+    
+    <li><a href="http://localhost:1234/tags/blocco">blocco</a></li>
+    
+    <li><a href="http://localhost:1234/tags/caso">caso</a></li>
+    
+    <li><a href="http://localhost:1234/tags/che">che</a></li>
+    
+    <li><a href="http://localhost:1234/tags/contatti">contatti</a></li>
+    
+    <li><a href="http://localhost:1234/tags/da">da</a></li>
+    
+    <li><a href="http://localhost:1234/tags/dallumidita.">dallumidita.</a></li>
+    
+    <li><a href="http://localhost:1234/tags/del">del</a></li>
+    
+    <li><a href="http://localhost:1234/tags/dellacetone">dellacetone</a></li>
+    
+    <li><a href="http://localhost:1234/tags/di">di</a></li>
+    
+    <li><a href="http://localhost:1234/tags/e">e</a></li>
+    
+    <li><a href="http://localhost:1234/tags/elettricamente">elettricamente</a></li>
+    
+    <li><a href="http://localhost:1234/tags/il">il</a></li>
+    
+    <li><a href="http://localhost:1234/tags/isolante">isolante</a></li>
+    
+    <li><a href="http://localhost:1234/tags/italia">italia</a></li>
+    
+    <li><a href="http://localhost:1234/tags/l">l</a></li>
+    
+    <li><a href="http://localhost:1234/tags/liberasse">liberasse</a></li>
+    
+    <li><a href="http://localhost:1234/tags/liquido">liquido</a></li>
+    
+    <li><a href="http://localhost:1234/tags/lo">lo</a></li>
+    
+    <li><a href="http://localhost:1234/tags/megapresidente.">megapresidente.</a></li>
+    
+    <li><a href="http://localhost:1234/tags/nellacetone.">nellacetone.</a></li>
+    
+    <li><a href="http://localhost:1234/tags/oh">oh</a></li>
+    
+    <li><a href="http://localhost:1234/tags/otterrete">otterrete</a></li>
+    
+    <li><a href="http://localhost:1234/tags/per">per</a></li>
+    
+    <li><a href="http://localhost:1234/tags/plastica">plastica</a></li>
+    
+    <li><a href="http://localhost:1234/tags/polistirolo">polistirolo</a></li>
+    
+    <li><a href="http://localhost:1234/tags/potete">potete</a></li>
+    
+    <li><a href="http://localhost:1234/tags/prendere">prendere</a></li>
+    
+    <li><a href="http://localhost:1234/tags/producendo">producendo</a></li>
+    
+    <li><a href="http://localhost:1234/tags/proteggera">proteggera</a></li>
+    
+    <li><a href="http://localhost:1234/tags/resina">resina</a></li>
+    
+    <li><a href="http://localhost:1234/tags/sciogliere">sciogliere</a></li>
+    
+    <li><a href="http://localhost:1234/tags/se">se</a></li>
+    
+    <li><a href="http://localhost:1234/tags/semplicemente">semplicemente</a></li>
+    
+    <li><a href="http://localhost:1234/tags/si">si</a></li>
+    
+    <li><a href="http://localhost:1234/tags/solidifichera">solidifichera</a></li>
+    
+    <li><a href="http://localhost:1234/tags/solo">solo</a></li>
+    
+    <li><a href="http://localhost:1234/tags/trasparente">trasparente</a></li>
+    
+    <li><a href="http://localhost:1234/tags/un">un</a></li>
+    
+    <li><a href="http://localhost:1234/tags/una">una</a></li>
+    
+    <li><a href="http://localhost:1234/tags/va">va</a></li>
+    
+    <li><a href="http://localhost:1234/tags/ve">ve</a></li>
+    
+    <li><a href="http://localhost:1234/tags/vostro">vostro</a></li>
+    
+  </ul>    
+    
+    </div>
+</div>
+
+
+    <script>
+    console.log ("Let's get this party started right");
+    </script>
+    <script data-no-instant>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1234/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
+</html>
+ 
+
